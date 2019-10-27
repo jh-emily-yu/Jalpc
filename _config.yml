@@ -1,13 +1,13 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Emily
+title: "Emily"
 description: Emily
 keywords: Emily
-#baseurl:/ # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://jh-emily-yu.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl: /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://jh-emily-yu.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /static/assets/img/default.jpg  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /homepage/static/assets/img/default.jpg  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author: EMILY YU # change following line to your infomation.
